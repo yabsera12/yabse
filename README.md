@@ -1,3 +1,1 @@
-
-*********I am developer **********
-
+I'm a full-stack developer and content creator boilding my version of digital world on step an atime. All coding projects are built from the ground up, from planing and designing all the way to solving real life problems with code. All vodeo content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touchs. i publish that content on YouTube channel "yabsera" to more than 1000 subscribers.
